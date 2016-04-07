@@ -1,3 +1,7 @@
+# Temporary editors files
+*~
+*.swp
+
 # Compiled Object files
 *.slo
 *.lo
@@ -26,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# IDE configuration files
+.settings
+.cproject
+.project
